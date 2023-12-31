@@ -1,6 +1,6 @@
 # CalculatorPolinoame
 Un calculator de polinoame.  
-Stie sa faca operatiile simple pe polinoame: adunare, scadere, inmultire, impartire.
+Stie sa faca operatiile simple pe polinoame: adunare, scadere, inmultire, impartire.  
 Se mai adauga si derivarea si integrarea primului polinom.
 # INFO
 - Limbaj: Java.  
